@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-
+gee/开发笔记.md
 .idea
 # Test binary, built with `go test -c`
 *.test
