@@ -1,7 +1,7 @@
 # 简介
 根据net/http包编写一个简易的gin框架，改进gee的两个bug
 # 路由结构图
-![img.png](img.png)
+![img1.png](img1.png)
 # 项目包结构
 * Gee 
   * gin
